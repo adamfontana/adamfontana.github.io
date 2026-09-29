@@ -2,6 +2,7 @@
 
 If you've reached this site (or the github repo) in this state, congratulations!
 You've found my full website before I've built it out 🥳🥳🥳🥳🥳
+
 For now, please check out my computer build (the only thing I have on this website) below!
 [My current computer build](https://adamfontana.github.io/computer-stuff/)
 
